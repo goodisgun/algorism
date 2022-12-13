@@ -1,8 +1,5 @@
 package December;
-
-public class Threeday {
-
-}
+public class Q1207 {
 
 class Solution {
     public int[] solution(String[] keyinput, int[] board) {
@@ -24,5 +21,5 @@ class Solution {
             return answer;
         }
     }
-
+}
 // #0 각각의 인덱스 값이 달라야  answer값을 다르게 설정할 수 있다.
